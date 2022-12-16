@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SNRD-frontend/static/css/main.2aace752.css",
+    "main.js": "/SNRD-frontend/static/js/main.f5de9591.js",
+    "static/js/787.ea0e35c8.chunk.js": "/SNRD-frontend/static/js/787.ea0e35c8.chunk.js",
+    "static/media/loginBg.svg": "/SNRD-frontend/static/media/loginBg.7ed0197c327cafd817631317b4b36275.svg",
+    "static/media/index.cjs": "/SNRD-frontend/static/media/index.b599194a631d76b49328.cjs",
+    "static/media/logo.svg": "/SNRD-frontend/static/media/logo.15ecb260085b47df1d52736fabdbfb62.svg",
+    "static/media/edit.svg": "/SNRD-frontend/static/media/edit.2ef0cc36a52f7eb9e654169f9a095ede.svg",
+    "index.html": "/SNRD-frontend/index.html",
+    "main.2aace752.css.map": "/SNRD-frontend/static/css/main.2aace752.css.map",
+    "main.f5de9591.js.map": "/SNRD-frontend/static/js/main.f5de9591.js.map",
+    "787.ea0e35c8.chunk.js.map": "/SNRD-frontend/static/js/787.ea0e35c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aace752.css",
+    "static/js/main.f5de9591.js"
+  ]
+}
